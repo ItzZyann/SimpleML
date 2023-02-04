@@ -4,9 +4,10 @@
 - Its your choice whether you gonna continue to build the cocos2dx headers or not.
 
 Edit the classes.dex to this:
-Find geometryjump.dex or smail first.
 
-```xml
+Rind geometryjump.dex or smail first.
+
+```smail
 .line 69
 const-string v0, "fmod"
 
